@@ -14,7 +14,7 @@ Dessa forma, o foco será na resolução de problemas e no aprimoramento do raci
 A interface do projeto permite uma interação intuitiva para realizar o sorteio do Amigo Secreto:
 1. **Adição de participantes:** O usuário insere os nomes dos participantes em um campo de entrada.
 2. **Início do sorteio:** Após adicionar todos os participantes, o usuário clica em um botão para realizar o sorteio.
-3. **Exibição dos resultados:** O sistema processa os nomes e exibe na tela os pares de Amigo Secreto.
+3. **Exibição dos resultados:** O sistema processa os nomes e exibe na tela o nome do Amigo Secreto.
 4. **Opção de reiniciar:** O usuário pode optar por reiniciar o sorteio e inserir novos participantes, repetindo o processo.
 
 A interação acontece de maneira dinâmica, sem necessidade de recarregar a página, tornando a experiência fluida e eficiente.
