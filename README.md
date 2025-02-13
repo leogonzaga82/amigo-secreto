@@ -31,7 +31,7 @@ Este arquivo, com extensão `.md` (Markdown), é o ponto de referência inicial 
    ```
 2. Acesse o diretório do projeto:
    ```bash
-   cd desafio-logica
+   cd challenge-amigo-secreto_pt
    ```
 3. Nenhuma instalação adicional é necessária, pois o projeto utiliza apenas HTML, CSS e JavaScript puro.
 
